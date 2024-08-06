@@ -1,1 +1,1 @@
-# seakarate.github.io
+# seakarate.github.io/badmod.html
